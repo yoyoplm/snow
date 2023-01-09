@@ -1,0 +1,256 @@
+body{
+    background: #E9DED7;
+    margin: 0 0 0 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.homescreen{
+    width: 100%;
+    background: linear-gradient(180deg, #FFFFFF 68.67%, rgba(235, 235, 235, 0.2) 85.35%, rgba(217, 217, 217, 0) 98.36%);
+}
+
+.text{
+    height: 85px;
+    margin: 433px 0 0 223px;
+    font-family: 'Dela Gothic One';
+    font-weight: 400;
+    font-size: 64px;
+}
+
+.text2{
+    font-weight: 400;
+    font-size: 36px;
+    font-family: 'Impact';
+    width: 839px;
+    margin: 12px 0 0 223px;
+}
+
+.text3{
+    font-family: 'Dela Gothic One';
+    font-weight: 400;
+    font-size: 64px;
+    margin: 53px 0 0 956px;
+}
+
+.text4{
+    font-weight: 400;
+    font-size: 36px;
+    font-family: 'Impact';
+    margin: 12px 0 0 376px;
+    width: 838px;
+}
+
+.text5{
+    font-weight: 400;
+    font-size: 64px;
+    font-family: 'Dela Gothic One';
+    margin: 52px 0 0 248px;
+    z-index: 5;
+    position: relative;
+}
+
+.text6{
+    font-size: 36px;
+    letter-spacing: 0.405em;
+    margin: 53px 0 0 708px;
+    position: relative;
+    width: 494px;
+    z-index: 1;
+}
+
+.text7{
+    font-size: 36px;
+    position: relative;
+    margin: 20px 0 0 708px;
+    letter-spacing: 0.405em;
+    z-index: 1;
+}
+
+.text8{
+    font-size: 36px;
+    position: relative;
+    margin: 20px 0 0 708px;
+    letter-spacing: 0.405em;
+    z-index: 1;
+}
+
+.level{
+    position: absolute;
+    width: 417px;
+    height: 222px;
+    margin: 18px 0 0 248px;
+    z-index: 5;
+}
+
+.level2{
+    position: absolute;
+    width: 531px;
+    height: 221px;
+    margin: 272px 0 0 340px;
+    z-index: 5;
+}
+
+.Mountain{
+    position: absolute;
+    width: 1256px;
+    left: 96px;
+    top: 2211px;
+    opacity: 0.6;
+}
+
+.ground{
+    position: absolute;
+    width: 100%;
+    left: 1.02px;
+    top: 2570px;
+    z-index: 3;
+}
+
+.tree{
+    display: flex;
+    justify-content: space-between
+}
+
+.tree1{
+    position: absolute;
+    width: 328px;
+    left: 0px;
+    top: 1590px;
+    z-index: 4;
+}
+
+.tree2{
+    position: absolute;
+    right: 0px;
+    top: 1573px;
+    z-index: 4;
+}
+
+.tree3{
+    position: absolute;
+    width: 284.67px;
+    left: 120px;
+    top: 1727px;
+    z-index: 2;
+}
+
+.tree4{
+    position: absolute;
+    width: 225.88px;
+    height: 780.52px;
+    right:120px;
+    top: 1935px;
+    z-index: 2;
+}
+
+.tree5{
+    position: absolute;
+    width: 251px;
+    height: 456px;
+    left: 223px;
+    top: 2193px;
+}
+
+.tree6{
+    position: absolute;
+    width: 153px;
+    height: 280px;
+    left: 1040px;
+    top: 2369px;
+}
+
+.video{
+    text-align: center;
+}
+
+.video2{
+    width: 90%;
+    margin: 460px 0 0 0px;
+}
+
+.member123{
+    text-align: center;
+}
+
+.member1{
+    margin: 61px 0 0 ;
+    width: 378px
+}
+
+.member2{
+    margin: 61px 53px 0 53px;
+    width: 378px
+}
+
+.member3{
+    margin: 61px 0 0 0px;
+    width: 378px
+}
+
+.text9{
+    display: flex;
+    justify-content: center
+}
+
+.text10{
+    font-family: 'Dela Gothic One';
+    font-size: 48px;
+    line-height: 70px;
+    width: 146px;
+    margin: 0px 0 0 0px;
+}
+
+.text11{
+    font-family: 'Dela Gothic One';
+    font-size: 48px;
+    line-height: 70px;
+    width: 146px;
+    margin: 0px 283px 0 283px;
+}
+
+.text12{
+    font-family: 'Dela Gothic One';
+    font-size: 48px;
+    line-height: 70px;
+    width: 146px;
+    margin: 0px 0 0 0px;
+}
+
+.work{
+    display: flex;
+    justify-content: center
+}
+
+.text13{
+    width: 150px;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    margin: 0px 0 0 0px;
+}
+
+.text14{
+    width: 150px;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    margin: 0px 275px 0 280px;
+}
+
+.text15{
+    width: 150px;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    margin: 0px 0 0 10px;
+}
+
+.bottom{
+    width: 100%;
+    position: absolute;
+}
